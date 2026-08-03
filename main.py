@@ -21,6 +21,11 @@ from src.embeddings import (
 # Đổi bằng biến môi trường: LAB_DATA_DIR=data/<thu-muc-cua-nhom> python3 main.py
 DEFAULT_DATA_DIR = "data/k3_university"
 
+# Windows terminals may still default to a legacy code page.  Keep the demo
+# readable instead of crashing when it prints Vietnamese text.
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+
 
 def _select_embedder():
     """Chọn backend nhúng theo biến môi trường EMBEDDING_PROVIDER (mock | local | openai)."""

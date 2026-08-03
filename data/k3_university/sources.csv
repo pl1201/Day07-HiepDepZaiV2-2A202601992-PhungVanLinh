@@ -1,3 +1,6 @@
 doc_id,file_path,title,source_url,retrieved_at,document_version,license_or_permission
-k3-course-registration,data/k3_university/course-registration.md,Đăng ký học phần,https://example.edu/hoc-vu/dang-ky-hoc-phan,2026-08-02,2026.1,example-template-replace-me
-k3-library-services,data/k3_university/library-services.md,Dịch vụ thư viện,https://example.edu/thu-vien/dich-vu,2026-08-02,2026.1,example-template-replace-me
+ueh-course-registration,data/k3_university/course-registration.md,Hướng dẫn đăng ký học phần UEH,https://nhaphoc.ueh.edu.vn/dinh-huong-sau-nhap-hoc/hoc-tap-tai-ueh/dao-tao-dhcq/xay-dung-ke-hoach-hoc-tap/,2026-08-03,accessed-2026-08-03,public-official-page
+ueh-library-borrowing,data/k3_university/library-services.md,"Mượn, trả và gia hạn tài liệu tại Thư viện UEH",https://smartlib.ueh.edu.vn/services/academic,2026-08-03,accessed-2026-08-03,public-official-page
+ueh-tuition-payment,data/k3_university/tuition-payment.md,Quy trình nộp và kiểm tra học phí UEH,https://nhaphoc.ueh.edu.vn/dinh-huong-sau-nhap-hoc/hoc-tap-tai-ueh/hoc-phi/,2026-08-03,accessed-2026-08-03,public-official-page
+ueh-scholarship-policy,data/k3_university/scholarship-policy.md,Chính sách học bổng UEH,https://dsa.ueh.edu.vn/tin-tuc/chinh-sach-hoc-bong/,2026-08-03,accessed-2026-08-03,public-official-page
+ueh-dormitory-registration,data/k3_university/dormitory-registration.md,Đăng ký nội trú Ký túc xá UEH,https://kytucxa.ueh.edu.vn/student/dorm-register,2026-08-03,accessed-2026-08-03,public-official-page
