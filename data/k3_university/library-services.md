@@ -1,18 +1,19 @@
 ---
-doc_id: k3-library-services
-title: Dịch vụ thư viện
-audience: all               # student | faculty | staff | all
+doc_id: ueh-library-borrowing
+title: Mượn, trả và gia hạn tài liệu tại Thư viện UEH
+audience: all
 department: library
+category: library
 language: vi
-source_url: https://example.edu/thu-vien/dich-vu
-retrieved_at: 2026-08-02
-document_version: "2026.1"
+source_url: https://smartlib.ueh.edu.vn/services/academic
+retrieved_at: 2026-08-03
+document_version: accessed-2026-08-03
 ---
 
-> Khối metadata phía trên là **template mẫu** cho K3 — thay `source_url`/`retrieved_at`/`document_version` bằng nguồn công khai thật trước khi dùng làm benchmark.
+# Mượn tài liệu
 
-# Dịch vụ thư viện (dữ liệu khởi động)
+Hạn mức mượn tiêu chuẩn tại Thư viện UEH là 5 cuốn trong 20 ngày. Một số bộ sưu tập đặc biệt như sách có chấm màu cam, luận văn và luận án in cần liên hệ thủ thư.
 
-Thư viện cung cấp mượn tài liệu và không gian học tập cho sinh viên, giảng viên và nhân viên. Người dùng cần mang thẻ định danh hợp lệ khi sử dụng dịch vụ mượn.
+# Gia hạn và xử lý mất tài liệu
 
-Nhóm cần bổ sung quy định thời hạn mượn, gia hạn và xử lý quá hạn từ nguồn chính thức trước khi dùng làm benchmark.
+Phần lớn tài liệu có thể được gia hạn trực tuyến, trực tiếp, qua email hoặc điện thoại. Mỗi cuốn được gia hạn một lần thêm 20 ngày. Tài liệu bị mất phải chịu phí thay thế.

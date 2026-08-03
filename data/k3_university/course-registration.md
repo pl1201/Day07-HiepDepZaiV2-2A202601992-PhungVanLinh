@@ -1,18 +1,19 @@
 ---
-doc_id: k3-course-registration
-title: Đăng ký học phần
-audience: student            # student | faculty | staff | all
+doc_id: ueh-course-registration
+title: Hướng dẫn đăng ký học phần UEH
+audience: student
 department: academic-affairs
+category: course-registration
 language: vi
-source_url: https://example.edu/hoc-vu/dang-ky-hoc-phan
-retrieved_at: 2026-08-02
-document_version: "2026.1"
+source_url: https://nhaphoc.ueh.edu.vn/dinh-huong-sau-nhap-hoc/hoc-tap-tai-ueh/dao-tao-dhcq/xay-dung-ke-hoach-hoc-tap/
+retrieved_at: 2026-08-03
+document_version: accessed-2026-08-03
 ---
 
-> Khối metadata phía trên là **template mẫu** cho K3 (bắt buộc: `audience` + `source_url` + `retrieved_at` + `document_version`, cùng ít nhất một trường hữu ích khác như `department`). Thay bằng nguồn công khai thật của nhóm trước khi dùng làm benchmark.
+# Đăng ký học phần
 
-# Đăng ký học phần (dữ liệu khởi động)
+Sinh viên đăng nhập Portal sinh viên và chọn mục “Đăng ký học phần”. Tại danh sách môn, sinh viên chọn lớp học phần tương ứng, bấm “Đăng ký” để lưu rồi quay lại danh sách nếu muốn đăng ký môn khác.
 
-Sinh viên đăng ký học phần trong cổng học vụ theo lịch của từng học kỳ. Một học phần có thể yêu cầu học phần tiên quyết; sinh viên cần kiểm tra điều kiện trước khi xác nhận đăng ký.
+# Kiểm tra và điều chỉnh
 
-Khi gặp lỗi trùng lịch, sinh viên điều chỉnh lớp học phần trước thời hạn điều chỉnh được công bố. Mọi yêu cầu ngoại lệ phải được gửi qua kênh hỗ trợ học vụ chính thức.
+Học phần đã đăng ký thành công xuất hiện trong danh sách đăng ký. Nếu muốn bỏ một học phần, sinh viên chọn “Xóa đăng ký” trong thời gian hệ thống cho phép. Sau khi hoàn tất, sinh viên chọn “In phiếu đóng tiền” để kiểm tra lại danh sách học phần và tổng học phí cần đóng.
